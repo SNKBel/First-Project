@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center">DEV LINKS</h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Jt1zCBU4e5si2uaJKBlhaj/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=PKELoTkJTFXW7GJ7-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/Jt1zCBU4e5si2uaJKBlhaj/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=PKELoTkJTFXW7GJ7-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo Licença
 
