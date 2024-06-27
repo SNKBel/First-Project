@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
 
 ## Tecnologias
@@ -36,7 +36,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/Jt1zCBU4e5si2uaJKBlhaj/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=PKELoTkJTFXW7GJ7-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
